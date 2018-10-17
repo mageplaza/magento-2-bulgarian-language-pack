@@ -829,7 +829,7 @@
 "Return-Path Email","Return-Path Email",module,Magento_Backend
 "Admin","Админ",module,Magento_Backend
 "Admin User Emails","Email адрес на администратора",module,Magento_Backend
-"Forgot Password Email Template","Шаблон за ""Забравена парола""",module,Magento_Backend
+"Forgot Password Email Template","Имейл шаблон за ""Забравена парола""",module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email шаблона, който е избран въз основа на йерархията на темата, когато опцията ""По подразбиране"" е избрана.",module,Magento_Backend
 "Forgot and Reset Email Sender","Забрави и възстанови изпращача на email-а",module,Magento_Backend
 "Startup Page","Стартиране на страница",module,Magento_Backend
@@ -955,7 +955,7 @@
 "Please put your store into maintenance mode during backup.","Please put your store into maintenance mode during backup.",module,Magento_Backup
 "Exclude","Exclude",module,Magento_Backup
 "Exclude media folder from backup","Exclude media folder from backup",module,Magento_Backup
-"Please enter the password to confirm rollback.","Моля, въведете паролата, за да потвърдите връщането.",module,Magento_Backup
+"Please enter the password to confirm rollback.","Моля, въведете паролата, за да потвърдите възстановяването.",module,Magento_Backup
 "This action cannot be undone.","This action cannot be undone.",module,Magento_Backup
 "User Password","Потребителска парола",module,Magento_Backup
 "Please put your store into maintenance mode during rollback processing.","Please put your store into maintenance mode during rollback processing.",module,Magento_Backup
@@ -4873,7 +4873,7 @@
 "Address Information","Адресна информация",module,Magento_CustomerCustomAttributes
 "Sign-in Information","Информация за регистриране",module,Magento_CustomerCustomAttributes
 "Password","Парола",module,Magento_CustomerCustomAttributes
-"Confirm Password","Потвръдете паролата",module,Magento_CustomerCustomAttributes
+"Confirm Password","Потвърдете паролата",module,Magento_CustomerCustomAttributes
 "Create an Account","Регистрация",module,Magento_CustomerCustomAttributes
 "Back","Назад",module,Magento_CustomerCustomAttributes
 "Customer Address","Адрес на клиента",module,Magento_CustomerCustomAttributes
