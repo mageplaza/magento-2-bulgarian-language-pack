@@ -19,7 +19,7 @@ Read more [Magento 2 Bulgarian Language Pack](https://www.mageplaza.com/magento-
 
 This is status of Bulgarian Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/78?title=translated)
+![language pack](http://progressed.io/bar/81?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
