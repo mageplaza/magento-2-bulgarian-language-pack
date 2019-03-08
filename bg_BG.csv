@@ -70,7 +70,7 @@ Message,Съобщение,module,Magento_AdminNotification
 Actions,Действия,module,Magento_AdminNotification
 "Manage Shopping Cart","Управление на количка",module,Magento_AdvancedCheckout
 "Create Order","Създаване на поръчка",module,Magento_AdvancedCheckout
-Back,Назад,module,Magento_AdvancedCheckout
+Back,Обратно,module,Magento_AdvancedCheckout
 "Add Products","Добави продукти",module,Magento_AdvancedCheckout
 "Update Items and Quantities","Обнови артикули и количества",module,Magento_AdvancedCheckout
 "Are you sure you want to clear your cart?","Сигурни ли сте, че искате да изчистите вашата количка?",module,Magento_AdvancedCheckout
@@ -91,7 +91,7 @@ SKU,"Кат. номер",module,Magento_AdvancedCheckout
 "Recently Viewed Products (%1)","Последно видени продукти (%1)",module,Magento_AdvancedCheckout
 "Add to Shopping Cart by SKU","Добави в количката по кат. номер",module,Magento_AdvancedCheckout
 "Add to Shopping Cart","Добави в количката",module,Magento_AdvancedCheckout
-"Wish List (%1)","Списък с желани продукти  (%1)",module,Magento_AdvancedCheckout
+"Wish List (%1)","Списък Желания (%1)",module,Magento_AdvancedCheckout
 Apply,Приложи,module,Magento_AdvancedCheckout
 Configure,Конфигурирай,module,Magento_AdvancedCheckout
 "Add to Order by SKU","Добави към поръчката по каталожен номер",module,Magento_AdvancedCheckout
@@ -121,14 +121,14 @@ Customers,Клиенти,module,Magento_AdvancedCheckout
 "You cannot configure a product.","Не можете да конфигурирате този продукт.",module,Magento_AdvancedCheckout
 "You removed the items.","Вие премахнахте тези артикули.",module,Magento_AdvancedCheckout
 "You removed the item.","Вие премахнахте артикулът.",module,Magento_AdvancedCheckout
-"You added %1 to your shopping cart.","Добавихте %1 към вашата количка.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Добавихте %1 към количката.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Не можете да добавяте продукт.",module,Magento_AdvancedCheckout
 "Order by SKU","Подреди по кат.номер",module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.","Този кат. номер не бе открит в каталога.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Наличност: Няма налично.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","Нямаме толкова колкото искате.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","Не можете да добавите толкова много към количката си.",module,Magento_AdvancedCheckout
-"You need to choose options for your item.","Вие трябва да изберете опции за Вашия артикул.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Трябва да изберете опции за продукта.",module,Magento_AdvancedCheckout
 "We can't add the item to your cart.","Не можем да добавим елемента към Вашата количка.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","Моля, въведете реалното число в полето ""Количество"".",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","Този продукт е присвоен на друг сайт.",module,Magento_AdvancedCheckout
@@ -140,21 +140,21 @@ Customers,Клиенти,module,Magento_AdvancedCheckout
 "We can't add a product to cart by id ""%1"".","Ние не може да добавите продукт в кошницата по ID ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Нещо се обърка, при повторно поръчване на този продукт.",module,Magento_AdvancedCheckout
 "We can't find this wish list.","Не можем да намерим този списък с желани продукти",module,Magento_AdvancedCheckout
-"You added %1 product to your shopping cart.","Добавихте %1 продукт към Вашата количка.",module,Magento_AdvancedCheckout
-"You added %1 products to your shopping cart.","Добавихте %1 продукта към Вашата количка.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","Добавихте %1 продукт към количката си.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","Добавихте %1 продукта към количка си.",module,Magento_AdvancedCheckout
 "%1 product requires your attention.","%1 продукт изисква Вашето внимание.",module,Magento_AdvancedCheckout
 "%1 products require your attention.","%1 продукта изискват Вашето внимание.",module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Да, за определени клиентски групи",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Да, за всеки",module,Magento_AdvancedCheckout
 No,Не,module,Magento_AdvancedCheckout
 "The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
-"Please upload the file in .csv format.","Моля качете файла в .csv формат.",module,Magento_AdvancedCheckout
+"Please upload the file in .csv format.","Моля, качете файла в .csv формат.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 елемент(и) се нуждаят от Вашето внимание.",module,Magento_AdvancedCheckout
 "Apply Coupon Code","Приложи купон",module,Magento_AdvancedCheckout
 "Remove Coupon Code","Премахни купон",module,Magento_AdvancedCheckout
 Remove,Премахни,module,Magento_AdvancedCheckout
 "The coupon code ""%1"" is not valid.","Този код ""%1"" не е валиден.",module,Magento_AdvancedCheckout
-"Shopping Cart Items","Артикули на пазарската кошница",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Продукти в количката",module,Magento_AdvancedCheckout
 Qty,К-во,module,Magento_AdvancedCheckout
 Subtotal,"Междинна сума",module,Magento_AdvancedCheckout
 Discount,Отстъпка,module,Magento_AdvancedCheckout
@@ -165,14 +165,14 @@ Action,Действие,module,Magento_AdvancedCheckout
 Subtotal:,"Междинна сума:",module,Magento_AdvancedCheckout
 "Please select","Моля изберете",module,Magento_AdvancedCheckout
 "Move to Wish List","Премести в списък с желания",module,Magento_AdvancedCheckout
-"No item specified.","Няма зададен артикул.",module,Magento_AdvancedCheckout
-"Are you sure you want to remove this item?","Сигурни ли сте, че искате да изтриете артикула?",module,Magento_AdvancedCheckout
+"No item specified.","Няма зададен продукт.",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Сигурни ли сте, че искате да изтриете продукта?",module,Magento_AdvancedCheckout
 "SKU number","Кат. номер",module,Magento_AdvancedCheckout
 "Upload File","Качи файл",module,Magento_AdvancedCheckout
 "Your csv file must include ""sku"" and ""qty"" columns.","Вашият csv файл трябва да съдържа колоните ""sku"" и ""qty"".",module,Magento_AdvancedCheckout
 Reset,Нулирай,module,Magento_AdvancedCheckout
 SKU:,"Кат. номер:",module,Magento_AdvancedCheckout
-"Only <span id=""%1_max_allowed"">%2</span> in stock","Само <span id=""%1_max_allowed"">%2</span> на склад",module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","Само <span id=""%1_max_allowed"">%2</span> в наличност",module,Magento_AdvancedCheckout
 Item,Артикул,module,Magento_AdvancedCheckout
 "See price before order confirmation.","Вижте цената преди потвърждение на поръчката.",module,Magento_AdvancedCheckout
 "What's this?","Какво е това?",module,Magento_AdvancedCheckout
@@ -189,9 +189,9 @@ File,Файл,module,Magento_AdvancedCheckout
 "Add Row","Добави ред",module,Magento_AdvancedCheckout
 "Remove Row","Премахни ред",module,Magento_AdvancedCheckout
 "Add Products By SKU","Добавяне на продукти по кат. номер",module,Magento_AdvancedCheckout
-"Shopping Cart Management","Управление на количка за пазаруване",module,Magento_AdvancedCheckout
+"Shopping Cart Management","Управление на количка",module,Magento_AdvancedCheckout
 "View Shopping Cart","Покажи количката",module,Magento_AdvancedCheckout
-"View and modify Shopping Cart","Разглеждане и модифициране на пазарска количка",module,Magento_AdvancedCheckout
+"View and modify Shopping Cart","Разглеждане и модифициране на количката",module,Magento_AdvancedCheckout
 "Order by SKU Settings","Настройки на поръчка по кат. номер",module,Magento_AdvancedCheckout
 "Enable Order by SKU on My Account in Storefront","Разрешете поръчки по кат. номер за моята сметка в магазина",module,Magento_AdvancedCheckout
 "Customer Groups","Клиентски групи",module,Magento_AdvancedCheckout
@@ -4601,16 +4601,16 @@ Email,Email,module,Magento_Customer
 "Reset My Password","Генериране на нова парола",module,Magento_Customer
 "Registered Customers","Регистрирани потребители",module,Magento_Customer
 "If you have an account, sign in with your email address.","Ако имате профил, използвайте имейла си за да влезете.",module,Magento_Customer
-Password,Password,module,Magento_Customer
+Password,Парола,module,Magento_Customer
 "Forgot Your Password?","Забравили сте паролата си?",module,Magento_Customer
 "Subscription option","Subscription option",module,Magento_Customer
 "General Subscription","General Subscription",module,Magento_Customer
 "Sign Up for Newsletter","Абонирай ме за е-бюлетин",module,Magento_Customer
-"Address Information","Address Information",module,Magento_Customer
+"Address Information",Адрес,module,Magento_Customer
 "Sign-in Information","Sign-in Information",module,Magento_Customer
 "Confirm Password","Потвърдете паролата",module,Magento_Customer
 "Create an Account",Регистрация,module,Magento_Customer
-"Set a New Password","Set a New Password",module,Magento_Customer
+"Set a New Password","Задавйте нова парола",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Вие излязохте от профила си и ще бъдете препратени към началната страница след 5 секунди.",module,Magento_Customer
 "New Customers","Нови клиенти",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Регистрацията Ви дава няколко предимства: по-бърза поръчка, запазване на повече от един адрес, проследяване на поръчки и др.",module,Magento_Customer
@@ -7947,7 +7947,7 @@ Price,Price,module,Magento_NegotiableQuote
 "Quote Items","Quote Items",module,Magento_NegotiableQuote
 Update,Update,module,Magento_NegotiableQuote
 "No shipping information available.","No shipping information available.",module,Magento_NegotiableQuote
-"Contact Us","Contact Us",module,Magento_NegotiableQuote
+"Contact Us","За контакт",module,Magento_NegotiableQuote
 "Your quote number is: %1.","Your quote number is: %1.",module,Magento_NegotiableQuote
 "The quote has been sent to the merchant.","The quote has been sent to the merchant.",module,Magento_NegotiableQuote
 "Continue Shopping","Continue Shopping",module,Magento_NegotiableQuote
@@ -9716,7 +9716,7 @@ Rename,Rename,module,Magento_RequisitionList
 items,items,module,Magento_RequisitionList
 item,item,module,Magento_RequisitionList
 "in requisition list","in requisition list",module,Magento_RequisitionList
-"Contact Us","Contact Us",module,Magento_RequisitionList
+"Contact Us","За контакт",module,Magento_RequisitionList
 "Add to Cart","Add to Cart",module,Magento_RequisitionList
 "Update List","Update List",module,Magento_RequisitionList
 "Delete Requisition List","Delete Requisition List",module,Magento_RequisitionList
