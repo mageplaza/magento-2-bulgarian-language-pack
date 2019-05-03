@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Bulgarian Language Pack](https://www.mageplaza.com/magento-2-bulgarian-language-pack.html)
 
+![Mageplaza Bulgarian language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
