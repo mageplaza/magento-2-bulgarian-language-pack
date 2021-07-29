@@ -15134,55 +15134,55 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend\Magento\blank
-"Now Shopping by","Пазаруване сега по",theme,frontend\Magento\luma
-"Previous","Назад",theme,frontend\Magento\luma
-"Remove","Премахване",theme,frontend\Magento\luma
-"Remove This Item","Премахнете този елемент",theme,frontend\Magento\luma
-"Shop By","Пазаруване по",theme,frontend\Magento\luma
-"Clear All","Изчисти всички",theme,frontend\Magento\luma
-"Shopping Options","Опции за пазаруване",theme,frontend\Magento\luma
-"Welcome to %store_name","Добре дошли в %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Добре дошли в %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","За да влезете в нашият сайт, използвайте тези идентификационни данни при приключване на поръчката или на страницата <a href=""%customer_url"">Моят профил</a>:",theme,frontend\Magento\luma
-"Email:","Имейл:",theme,frontend\Magento\luma
-"Password:","Парола:",theme,frontend\Magento\luma
-"Password you set when creating account","Парола, която сте задали при регистрация",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забравили сте паролата си? Щракнете <a href=""%reset_url""> тук</a> за да генерирате нова парола.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Когато влезете профила си, ще можете да:",theme,frontend\Magento\luma
-"Quick Checkout","Бърза поръчка",theme,frontend\Magento\luma
-"Proceed through checkout faster","Продължете по-бързо през финализиране на поръчката",theme,frontend\Magento\luma
-"Order Status","Статус на поръчката",theme,frontend\Magento\luma
-"Check the status of orders","Проверка на статуса на поръчките",theme,frontend\Magento\luma
-"Manage Addresses","Управление на адреси",theme,frontend\Magento\luma
-"Store alternative addresses","Съхраняване на допълнителни адреси",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","За доставка на няколко членове на семейството и приятели",theme,frontend\Magento\luma
-"Order History","История на поръчките",theme,frontend\Magento\luma
-"View past orders","Покажи последните поръчки",theme,frontend\Magento\luma
-"Footer","Футър",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Кредитно известие за вашата поръчка %store_name",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Благодарим ви за вашата поръчка от %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Можете да проверите статуса на вашата поръчка като <a href=""%account_url""> влезете във вашия акаунт</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ако имате въпроси относно вашата поръчка, можете да ни пишете на <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Вашето кредитно известие #%creditmemo_id за поръчка #%order_id",theme,frontend\Magento\luma
-"Billing Info","Информация за фактуриране",theme,frontend\Magento\luma
-"Payment Method","Метод на плащане",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Актуализиране на вашия %store_name кредитно известие",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Вашата поръчка #%increment_id е актуализирана със статут на <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Фактура за вашата поръчка %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Вашата фактура #%invoice_id за поръчка #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Актуализиране на вашата %store_name фактура",theme,frontend\Magento\luma
-"Your %store_name order confirmation","%store_name потвърждение на поръчката",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","След изпращане на вашата поръчка ще ви изпратим номер за проследяване.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Вашата поръчка <span class=""no-link""> #%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Пуснати на <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Актуализиране на вашата поръчка за %store_name",theme,frontend\Magento\luma
-"Your %store_name order has shipped","%store_name поръчката е изпратена",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Потвърждение за доставката. Благодаря ви отново за вашата поръчка.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Вашата пратка #%shipment_id за поръчка #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Актуализиране на вашата %store_name пратка",theme,frontend\Magento\luma
+"My Account","My Account",theme,frontend/Magento/blank
+"Now Shopping by","Пазаруване сега по",theme,frontend/Magento/luma
+"Previous","Назад",theme,frontend/Magento/luma
+"Remove","Премахване",theme,frontend/Magento/luma
+"Remove This Item","Премахнете този елемент",theme,frontend/Magento/luma
+"Shop By","Пазаруване по",theme,frontend/Magento/luma
+"Clear All","Изчисти всички",theme,frontend/Magento/luma
+"Shopping Options","Опции за пазаруване",theme,frontend/Magento/luma
+"Welcome to %store_name","Добре дошли в %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Добре дошли в %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","За да влезете в нашият сайт, използвайте тези идентификационни данни при приключване на поръчката или на страницата <a href=""%customer_url"">Моят профил</a>:",theme,frontend/Magento/luma
+"Email:","Имейл:",theme,frontend/Magento/luma
+"Password:","Парола:",theme,frontend/Magento/luma
+"Password you set when creating account","Парола, която сте задали при регистрация",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забравили сте паролата си? Щракнете <a href=""%reset_url""> тук</a> за да генерирате нова парола.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Когато влезете профила си, ще можете да:",theme,frontend/Magento/luma
+"Quick Checkout","Бърза поръчка",theme,frontend/Magento/luma
+"Proceed through checkout faster","Продължете по-бързо през финализиране на поръчката",theme,frontend/Magento/luma
+"Order Status","Статус на поръчката",theme,frontend/Magento/luma
+"Check the status of orders","Проверка на статуса на поръчките",theme,frontend/Magento/luma
+"Manage Addresses","Управление на адреси",theme,frontend/Magento/luma
+"Store alternative addresses","Съхраняване на допълнителни адреси",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","За доставка на няколко членове на семейството и приятели",theme,frontend/Magento/luma
+"Order History","История на поръчките",theme,frontend/Magento/luma
+"View past orders","Покажи последните поръчки",theme,frontend/Magento/luma
+"Footer","Футър",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Кредитно известие за вашата поръчка %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Благодарим ви за вашата поръчка от %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Можете да проверите статуса на вашата поръчка като <a href=""%account_url""> влезете във вашия акаунт</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ако имате въпроси относно вашата поръчка, можете да ни пишете на <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Вашето кредитно известие #%creditmemo_id за поръчка #%order_id",theme,frontend/Magento/luma
+"Billing Info","Информация за фактуриране",theme,frontend/Magento/luma
+"Payment Method","Метод на плащане",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Актуализиране на вашия %store_name кредитно известие",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Вашата поръчка #%increment_id е актуализирана със статут на <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Фактура за вашата поръчка %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Вашата фактура #%invoice_id за поръчка #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Актуализиране на вашата %store_name фактура",theme,frontend/Magento/luma
+"Your %store_name order confirmation","%store_name потвърждение на поръчката",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","След изпращане на вашата поръчка ще ви изпратим номер за проследяване.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Вашата поръчка <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Пуснати на <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Актуализиране на вашата поръчка за %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","%store_name поръчката е изпратена",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Потвърждение за доставката. Благодаря ви отново за вашата поръчка.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Вашата пратка #%shipment_id за поръчка #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Актуализиране на вашата %store_name пратка",theme,frontend/Magento/luma
 "Details","Details",lib,web
 "Warning: No message defined for %s","Warning: No message defined for %s",lib,web
 "Backup options","Опции за архивиране",lib,web
